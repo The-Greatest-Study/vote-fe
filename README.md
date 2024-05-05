@@ -1,3 +1,11 @@
+# 프로젝트 실행하기
+
+```bash
+cd vote-fe
+yarn install
+yarn dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
